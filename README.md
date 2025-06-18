@@ -1,6 +1,6 @@
 # Analisis de series de tiempo I 
-### Trabajo Integrador
-Repositorio del trabajo integrador de la asignatura ASLI - CEIA - Cohorte 18
+### Trabajo Practico Final 
+Repositorio del trabajo integrador de la asignatura ASL I - CEIA - Cohorte 18
 
 # Integrantes
 - a1811 Más Valdecantos Marcelo
